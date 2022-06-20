@@ -1,0 +1,60 @@
+.btn {
+  background-color: rgb(114, 142, 219);
+  padding: 10px;
+  border: 2px solid rgb(34, 10, 28);
+  color: #fff;
+  font-size: 12px;
+}
+
+.dice {
+  font-size: 48px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 20px 20px 20px 20px;
+  margin: 80px;
+}
+
+.inp {
+  padding: 10px;
+  margin: 10px;
+}
+
+.center-wrapper {
+  text-align: center;
+}
+
+.playground-wrapper {
+  display: none;
+}
+
+.playground-wrapper-on {
+  display: block;
+  margin-top: 40px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.diceroll {
+  text-align: center;
+}
+
+.usr-list {
+  overflow: hidden;
+}
+
+.usr-list li {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 14px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-right: 20px;
+  background-color: rgb(114, 142, 219);
+}
